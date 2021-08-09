@@ -1,5 +1,220 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pik-piam/universe
 	shallow = true
 	branch = HEAD
+[submodule "citation"]
+	path = citation
+	url = https://github.com/pik-piam/citation
+	shallow = true
+	registered = true
+[submodule "edgeTransport"]
+	path = edgeTransport
+	url = https://github.com/pik-piam/edgeTransport
+	shallow = true
+	registered = true
+[submodule "edgeTrpLib"]
+	path = edgeTrpLib
+	url = https://github.com/pik-piam/edgeTrpLib
+	shallow = true
+	registered = true
+[submodule "GDPuc"]
+	path = GDPuc
+	url = https://github.com/pik-piam/GDPuc
+	shallow = true
+	registered = true
+[submodule "gdx"]
+	path = gdx
+	url = https://github.com/pik-piam/gdx
+	shallow = true
+	registered = true
+[submodule "gms"]
+	path = gms
+	url = https://github.com/pik-piam/gms
+	shallow = true
+	registered = true
+[submodule "goxygen"]
+	path = goxygen
+	url = https://github.com/pik-piam/goxygen
+	shallow = true
+	registered = true
+[submodule "limes"]
+	path = limes
+	url = https://github.com/pik-piam/limes
+	shallow = true
+	registered = true
+[submodule "lpjclass"]
+	path = lpjclass
+	url = https://github.com/pik-piam/lpjclass
+	shallow = true
+	registered = true
+[submodule "lucode2"]
+	path = lucode2
+	url = https://github.com/pik-piam/lucode2
+	shallow = true
+	registered = true
+[submodule "luplot"]
+	path = luplot
+	url = https://github.com/pik-piam/luplot
+	shallow = true
+	registered = true
+[submodule "luscale"]
+	path = luscale
+	url = https://github.com/pik-piam/luscale
+	shallow = true
+	registered = true
+[submodule "lusweave"]
+	path = lusweave
+	url = https://github.com/pik-piam/lusweave
+	shallow = true
+	registered = true
+[submodule "madrat"]
+	path = madrat
+	url = https://github.com/pik-piam/madrat
+	shallow = true
+	registered = true
+[submodule "magclass"]
+	path = magclass
+	url = https://github.com/pik-piam/magclass
+	shallow = true
+	registered = true
+[submodule "magpie4"]
+	path = magpie4
+	url = https://github.com/pik-piam/magpie4
+	shallow = true
+	registered = true
+[submodule "MAgPIENCGains"]
+	path = MAgPIENCGains
+	url = https://github.com/pik-piam/MAgPIENCGains
+	shallow = true
+	registered = true
+[submodule "magpiesets"]
+	path = magpiesets
+	url = https://github.com/pik-piam/magpiesets
+	shallow = true
+	registered = true
+[submodule "mip"]
+	path = mip
+	url = https://github.com/pik-piam/mip
+	shallow = true
+	registered = true
+[submodule "modelstats"]
+	path = modelstats
+	url = https://github.com/pik-piam/modelstats
+	shallow = true
+	registered = true
+[submodule "mrcommons"]
+	path = mrcommons
+	url = https://github.com/pik-piam/mrcommons
+	shallow = true
+	registered = true
+[submodule "mrfable"]
+	path = mrfable
+	url = https://github.com/pik-piam/mrfable
+	shallow = true
+	registered = true
+[submodule "mrfeed"]
+	path = mrfeed
+	url = https://github.com/pik-piam/mrfeed
+	shallow = true
+	registered = true
+[submodule "mrfish"]
+	path = mrfish
+	url = https://github.com/pik-piam/mrfish
+	shallow = true
+	registered = true
+[submodule "mrland"]
+	path = mrland
+	url = https://github.com/pik-piam/mrland
+	shallow = true
+	registered = true
+[submodule "mrmagpie"]
+	path = mrmagpie
+	url = https://github.com/pik-piam/mrmagpie
+	shallow = true
+	registered = true
+[submodule "mrremind"]
+	path = mrremind
+	url = https://github.com/pik-piam/mrremind
+	shallow = true
+	registered = true
+[submodule "mrsoil"]
+	path = mrsoil
+	url = https://github.com/pik-piam/mrsoil
+	shallow = true
+	registered = true
+[submodule "mrtutorial"]
+	path = mrtutorial
+	url = https://github.com/pik-piam/mrtutorial
+	shallow = true
+	registered = true
+[submodule "mrvalidation"]
+	path = mrvalidation
+	url = https://github.com/pik-piam/mrvalidation
+	shallow = true
+	registered = true
+[submodule "mrvalidnitrogen"]
+	path = mrvalidnitrogen
+	url = https://github.com/pik-piam/mrvalidnitrogen
+	shallow = true
+	registered = true
+[submodule "mrwaste"]
+	path = mrwaste
+	url = https://github.com/pik-piam/mrwaste
+	shallow = true
+	registered = true
+[submodule "mrwater"]
+	path = mrwater
+	url = https://github.com/pik-piam/mrwater
+	shallow = true
+	registered = true
+[submodule "mstools"]
+	path = mstools
+	url = https://github.com/pik-piam/mstools
+	shallow = true
+	registered = true
+[submodule "piamModelTests"]
+	path = piamModelTests
+	url = https://github.com/pik-piam/piamModelTests
+	shallow = true
+	registered = true
+[submodule "quitte"]
+	path = quitte
+	url = https://github.com/pik-piam/quitte
+	shallow = true
+	registered = true
+[submodule "regressionworlddata"]
+	path = regressionworlddata
+	url = https://github.com/pik-piam/regressionworlddata
+	shallow = true
+	registered = true
+[submodule "remind"]
+	path = remind
+	url = https://github.com/pik-piam/remind
+	shallow = true
+	registered = true
+[submodule "remind2"]
+	path = remind2
+	url = https://github.com/pik-piam/remind2
+	shallow = true
+	registered = true
+[submodule "remulator"]
+	path = remulator
+	url = https://github.com/pik-piam/remulator
+	shallow = true
+	registered = true
+[submodule "rmndt"]
+	path = rmndt
+	url = https://github.com/pik-piam/rmndt
+	shallow = true
+	registered = true
+[submodule "shinyresults"]
+	path = shinyresults
+	url = https://github.com/pik-piam/shinyresults
+	shallow = true
+	registered = true
+[submodule "trafficlight"]
+	path = trafficlight
+	url = https://github.com/pik-piam/trafficlight
+	shallow = true
+	registered = true

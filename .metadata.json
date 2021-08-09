@@ -1,0 +1,136 @@
+[
+  {
+    "package": "citation",
+    "oncran": true
+  },
+  {
+    "package": "edgeTransport"
+  },
+  {
+    "package": "edgeTrpLib"
+  },
+  {
+    "package": "GDPuc"
+  },
+  {
+    "package": "gdx"
+  },
+  {
+    "package": "gms",
+    "oncran": true
+  },
+  {
+    "package": "goxygen",
+    "oncran": true
+  },
+  {
+    "package": "limes"
+  },
+  {
+    "package": "lpjclass"
+  },
+  {
+    "package": "lucode2"
+  },
+  {
+    "package": "luplot"
+  },
+  {
+    "package": "luscale"
+  },
+  {
+    "package": "lusweave"
+  },
+  {
+    "package": "madrat",
+    "oncran": true
+  },
+  {
+    "package": "magclass",
+    "oncran": true
+  },
+  {
+    "package": "magpie4"
+  },
+  {
+    "package": "MAgPIENCGains"
+  },
+  {
+    "package": "magpiesets"
+  },
+  {
+    "package": "mip"
+  },
+  {
+    "package": "modelstats"
+  },
+  {
+    "package": "mrcommons"
+  },
+  {
+    "package": "mrfable"
+  },
+  {
+    "package": "mrfeed"
+  },
+  {
+    "package": "mrfish"
+  },
+  {
+    "package": "mrland"
+  },
+  {
+    "package": "mrmagpie"
+  },
+  {
+    "package": "mrremind"
+  },
+  {
+    "package": "mrsoil"
+  },
+  {
+    "package": "mrtutorial"
+  },
+  {
+    "package": "mrvalidation"
+  },
+  {
+    "package": "mrvalidnitrogen"
+  },
+  {
+    "package": "mrwaste"
+  },
+  {
+    "package": "mrwater"
+  },
+  {
+    "package": "mstools"
+  },
+  {
+    "package": "piamModelTests"
+  },
+  {
+    "package": "quitte"
+  },
+  {
+    "package": "regressionworlddata"
+  },
+  {
+    "package": "remind"
+  },
+  {
+    "package": "remind2"
+  },
+  {
+    "package": "remulator"
+  },
+  {
+    "package": "rmndt"
+  },
+  {
+    "package": "shinyresults"
+  },
+  {
+    "package": "trafficlight"
+  }
+]
