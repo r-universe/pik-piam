@@ -218,3 +218,9 @@
 	url = https://github.com/pik-piam/trafficlight
 	shallow = true
 	registered = true
+[submodule "gdxrrw"]
+	path = gdxrrw
+	url = https://github.com/GAMS-dev/gdxrrw
+	shallow = true
+	subdir = gdxrrw
+	registered = false
