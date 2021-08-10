@@ -4,6 +4,9 @@
     "oncran": true
   },
   {
+    "package": "demystas"
+  },
+  {
     "package": "edgeTransport"
   },
   {

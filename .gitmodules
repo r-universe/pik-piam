@@ -8,6 +8,11 @@
 	url = https://github.com/pik-piam/citation
 	shallow = true
 	registered = true
+[submodule "demystas"]
+	path = demystas
+	url = https://github.com/pik-piam/demystas
+	shallow = true
+	registered = true
 [submodule "edgeTransport"]
 	path = edgeTransport
 	url = https://github.com/pik-piam/edgeTransport
