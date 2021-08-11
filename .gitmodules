@@ -43,6 +43,11 @@
 	url = https://github.com/pik-piam/goxygen
 	shallow = true
 	registered = true
+[submodule "iamc"]
+	path = iamc
+	url = https://github.com/IAMconsortium/iamc
+	shallow = true
+	registered = true
 [submodule "limes"]
 	path = limes
 	url = https://github.com/pik-piam/limes

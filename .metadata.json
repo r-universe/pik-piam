@@ -27,6 +27,9 @@
     "oncran": true
   },
   {
+    "package": "iamc"
+  },
+  {
     "package": "limes"
   },
   {
