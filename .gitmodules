@@ -234,3 +234,8 @@
 	shallow = true
 	subdir = gdxrrw
 	registered = false
+[submodule "hdf5r"]
+	path = hdf5r
+	url = https://github.com/hhoeflin/hdf5r
+	shallow = true
+	registered = false
