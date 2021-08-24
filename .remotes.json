@@ -1,5 +1,11 @@
 [
   {
+    "package": "MTED-HARr",
+    "url": "https://github.com/USDA-ERS/MTED-HARr",
+    "via": ["mrcommons"],
+    "from": "mrcommons"
+  },
+  {
     "package": "gdxrrw",
     "url": "https://github.com/GAMS-dev/gdxrrw",
     "via": ["gdx"],

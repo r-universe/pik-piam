@@ -228,6 +228,11 @@
 	url = https://github.com/pik-piam/trafficlight
 	shallow = true
 	registered = true
+[submodule "MTED-HARr"]
+	path = MTED-HARr
+	url = https://github.com/USDA-ERS/MTED-HARr
+	shallow = true
+	registered = false
 [submodule "gdxrrw"]
 	path = gdxrrw
 	url = https://github.com/GAMS-dev/gdxrrw
