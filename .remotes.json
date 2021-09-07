@@ -11,11 +11,5 @@
     "via": ["gdx"],
     "subdir": "gdxrrw",
     "from": "gdx"
-  },
-  {
-    "package": "hdf5r",
-    "url": "https://github.com/hhoeflin/hdf5r",
-    "via": ["mrcommons"],
-    "from": "mrcommons"
   }
 ]
