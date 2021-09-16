@@ -43,6 +43,11 @@
 	url = https://github.com/pik-piam/goxygen
 	shallow = true
 	registered = true
+[submodule "HARr"]
+	path = HARr
+	url = https://github.com/USDA-ERS/MTED-HARr
+	shallow = true
+	registered = true
 [submodule "iamc"]
 	path = iamc
 	url = https://github.com/IAMconsortium/iamc
