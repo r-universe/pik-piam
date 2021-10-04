@@ -98,6 +98,11 @@
 	url = https://github.com/pik-piam/magpie4
 	shallow = true
 	registered = true
+[submodule "MAgPIENCGains"]
+	path = MAgPIENCGains
+	url = https://github.com/pik-piam/MAgPIENCGains
+	shallow = true
+	registered = true
 [submodule "magpiesets"]
 	path = magpiesets
 	url = https://github.com/pik-piam/magpiesets
