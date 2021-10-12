@@ -28,6 +28,11 @@
 	url = https://github.com/pik-piam/GDPuc
 	shallow = true
 	registered = true
+[submodule "gdx"]
+	path = gdx
+	url = https://github.com/pik-piam/gdx
+	shallow = true
+	registered = true
 [submodule "gms"]
 	path = gms
 	url = https://github.com/pik-piam/gms
