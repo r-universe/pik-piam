@@ -13,7 +13,8 @@
     "package": "edgeTrpLib"
   },
   {
-    "package": "GDPuc"
+    "package": "GDPuc",
+    "oncran": false
   },
   {
     "package": "gdx"
