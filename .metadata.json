@@ -78,6 +78,9 @@
     "package": "mrcommons"
   },
   {
+    "package": "mrdrivers"
+  },
+  {
     "package": "mrfable"
   },
   {
