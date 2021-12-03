@@ -198,6 +198,11 @@
 	url = https://github.com/pik-piam/piamModelTests
 	shallow = true
 	registered = true
+[submodule "piktests"]
+	path = piktests
+	url = https://github.com/pik-piam/piktests
+	shallow = true
+	registered = true
 [submodule "quitte"]
 	path = quitte
 	url = https://github.com/pik-piam/quitte

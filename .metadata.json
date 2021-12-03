@@ -123,6 +123,9 @@
     "package": "piamModelTests"
   },
   {
+    "package": "piktests"
+  },
+  {
     "package": "quitte"
   },
   {
