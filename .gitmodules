@@ -249,3 +249,9 @@
 	shallow = true
 	subdir = gdxrrw
 	registered = false
+[submodule "knitr"]
+	path = knitr
+	url = https://github.com/chroetz/knitr
+	shallow = true
+	branch = fix-Sweave2knitr
+	registered = false
