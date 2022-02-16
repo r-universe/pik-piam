@@ -128,6 +128,11 @@
 	url = https://github.com/pik-piam/mrdrivers
 	shallow = true
 	registered = true
+[submodule "mredgebuildings"]
+	path = mredgebuildings
+	url = https://github.com/pik-piam/mredgebuildings
+	shallow = true
+	registered = true
 [submodule "mrfable"]
 	path = mrfable
 	url = https://github.com/pik-piam/mrfable
