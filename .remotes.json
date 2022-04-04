@@ -5,12 +5,5 @@
     "via": ["gdx"],
     "subdir": "gdxrrw",
     "from": "gdx"
-  },
-  {
-    "package": "knitr",
-    "url": "https://github.com/chroetz/knitr",
-    "via": ["lusweave"],
-    "branch": "fix-Sweave2knitr",
-    "from": "lusweave"
   }
 ]
