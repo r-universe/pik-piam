@@ -52,6 +52,9 @@
     "package": "lusweave"
   },
   {
+    "package": "m4fsdp"
+  },
+  {
     "package": "madrat",
     "oncran": true
   },

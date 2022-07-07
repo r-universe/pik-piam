@@ -83,6 +83,11 @@
 	url = https://github.com/pik-piam/lusweave
 	shallow = true
 	registered = true
+[submodule "m4fsdp"]
+	path = m4fsdp
+	url = https://github.com/pik-piam/m4fsdp
+	shallow = true
+	registered = true
 [submodule "madrat"]
 	path = madrat
 	url = https://github.com/pik-piam/madrat
