@@ -123,6 +123,11 @@
 	url = https://github.com/pik-piam/mrcommons
 	shallow = true
 	registered = true
+[submodule "mrdieter"]
+	path = mrdieter
+	url = https://github.com/pik-piam/mrdieter
+	shallow = true
+	registered = true
 [submodule "mrdrivers"]
 	path = mrdrivers
 	url = https://github.com/pik-piam/mrdrivers
