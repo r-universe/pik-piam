@@ -33,6 +33,11 @@
 	url = https://github.com/pik-piam/gdx
 	shallow = true
 	registered = true
+[submodule "gdxrrw"]
+	path = gdxrrw
+	url = https://github.com/GAMS-dev/gdxrrw/gdxrrw
+	shallow = true
+	registered = true
 [submodule "gms"]
 	path = gms
 	url = https://github.com/pik-piam/gms
