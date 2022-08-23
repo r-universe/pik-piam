@@ -35,8 +35,9 @@
 	registered = true
 [submodule "gdxrrw"]
 	path = gdxrrw
-	url = https://github.com/GAMS-dev/gdxrrw/gdxrrw
+	url = https://github.com/GAMS-dev/gdxrrw
 	shallow = true
+	subdir = gdxrrw
 	registered = true
 [submodule "gms"]
 	path = gms
@@ -50,7 +51,7 @@
 	registered = true
 [submodule "HARr"]
 	path = HARr
-	url = https://github.com/USDA-ERS/MTED-HARr
+	url = https://github.com/pfuehrlich-pik/HARr
 	shallow = true
 	registered = true
 [submodule "iamc"]
