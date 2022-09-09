@@ -234,11 +234,6 @@
 	url = https://github.com/pik-piam/regressionworlddata
 	shallow = true
 	registered = true
-[submodule "remind"]
-	path = remind
-	url = https://github.com/pik-piam/remind
-	shallow = true
-	registered = true
 [submodule "remind2"]
 	path = remind2
 	url = https://github.com/pik-piam/remind2
