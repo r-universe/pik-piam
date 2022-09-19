@@ -59,11 +59,11 @@
   },
   {
     "package": "madrat",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "magclass",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "magpie4"
