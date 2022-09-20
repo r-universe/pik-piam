@@ -14,7 +14,7 @@
   },
   {
     "package": "GDPuc",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "gdx"
