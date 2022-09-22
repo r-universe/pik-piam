@@ -254,6 +254,11 @@
 	url = https://github.com/pik-piam/shinyresults
 	shallow = true
 	registered = true
+[submodule "SPARQL"]
+	path = SPARQL
+	url = https://github.com/cran/SPARQL
+	shallow = true
+	registered = true
 [submodule "trafficlight"]
 	path = trafficlight
 	url = https://github.com/pik-piam/trafficlight
