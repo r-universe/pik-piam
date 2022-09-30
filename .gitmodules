@@ -214,6 +214,11 @@
 	url = https://github.com/pik-piam/mstools
 	shallow = true
 	registered = true
+[submodule "piamInterfaces"]
+	path = piamInterfaces
+	url = https://github.com/pik-piam/piamInterfaces
+	shallow = true
+	registered = true
 [submodule "piamModelTests"]
 	path = piamModelTests
 	url = https://github.com/pik-piam/piamModelTests

@@ -132,6 +132,9 @@
     "package": "mstools"
   },
   {
+    "package": "piamInterfaces"
+  },
+  {
     "package": "piamModelTests"
   },
   {
