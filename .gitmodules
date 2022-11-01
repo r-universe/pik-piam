@@ -234,6 +234,11 @@
 	url = https://github.com/pik-piam/quitte
 	shallow = true
 	registered = true
+[submodule "r2databus"]
+	path = r2databus
+	url = https://github.com/pik-piam/r2databus
+	shallow = true
+	registered = true
 [submodule "regressionworlddata"]
 	path = regressionworlddata
 	url = https://github.com/pik-piam/regressionworlddata

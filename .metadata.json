@@ -144,6 +144,9 @@
     "package": "quitte"
   },
   {
+    "package": "r2databus"
+  },
+  {
     "package": "regressionworlddata"
   },
   {
