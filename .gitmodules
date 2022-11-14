@@ -214,6 +214,11 @@
 	url = https://github.com/pik-piam/mstools
 	shallow = true
 	registered = true
+[submodule "piamenv"]
+	path = piamenv
+	url = https://github.com/pik-piam/piamenv
+	shallow = true
+	registered = true
 [submodule "piamInterfaces"]
 	path = piamInterfaces
 	url = https://github.com/pik-piam/piamInterfaces
