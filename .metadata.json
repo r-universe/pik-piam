@@ -129,6 +129,9 @@
     "package": "mrwater"
   },
   {
+    "package": "mrwaterplots"
+  },
+  {
     "package": "mstools"
   },
   {

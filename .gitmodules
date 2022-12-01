@@ -209,6 +209,11 @@
 	url = https://github.com/pik-piam/mrwater
 	shallow = true
 	registered = true
+[submodule "mrwaterplots"]
+	path = mrwaterplots
+	url = https://github.com/pik-piam/mrwaterplots
+	shallow = true
+	registered = true
 [submodule "mstools"]
 	path = mstools
 	url = https://github.com/pik-piam/mstools
