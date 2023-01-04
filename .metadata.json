@@ -1,5 +1,8 @@
 [
   {
+    "package": "blackmagicc"
+  },
+  {
     "package": "citation",
     "oncran": true
   },
