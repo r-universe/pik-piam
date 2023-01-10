@@ -74,6 +74,11 @@
 	url = https://github.com/pik-piam/lpjclass
 	shallow = true
 	registered = true
+[submodule "lpjmlkit"]
+	path = lpjmlkit
+	url = https://gitlab.pik-potsdam.de/lpjml/lpjmlkit
+	shallow = true
+	registered = true
 [submodule "lucode2"]
 	path = lucode2
 	url = https://github.com/pik-piam/lucode2
