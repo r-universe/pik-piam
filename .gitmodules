@@ -78,7 +78,6 @@
 	path = lpjmlkit
 	url = https://gitlab.pik-potsdam.de/lpjml/lpjmlkit
 	shallow = true
-	branch = metafile
 	registered = true
 [submodule "lucode2"]
 	path = lucode2
