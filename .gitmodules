@@ -76,7 +76,7 @@
 	registered = true
 [submodule "lpjmlkit"]
 	path = lpjmlkit
-	url = https://gitlab.pik-potsdam.de/lpjml/lpjmlkit
+	url = https://github.com/PIK-LPJmL/lpjmlkit
 	shallow = true
 	registered = true
 [submodule "lucode2"]
