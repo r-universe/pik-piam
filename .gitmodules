@@ -184,6 +184,11 @@
 	url = https://github.com/pik-piam/mrmagpie
 	shallow = true
 	registered = true
+[submodule "mrorganic"]
+	path = mrorganic
+	url = https://github.com/tscheypidi/mrorganic
+	shallow = true
+	registered = true
 [submodule "mrremind"]
 	path = mrremind
 	url = https://github.com/pik-piam/mrremind
