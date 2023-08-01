@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/pik-piam/universe
 	branch = HEAD
+[submodule "GDPuc"]
+	path = GDPuc
+	url = https://github.com/pik-piam/GDPuc
+[submodule "HARr"]
+	path = HARr
+	url = https://github.com/pfuehrlich-pik/HARr
+[submodule "MagpieNCGains"]
+	path = MagpieNCGains
+	url = https://github.com/pik-piam/MAgPIENCGains
+[submodule "SPARQL"]
+	path = SPARQL
+	url = https://github.com/cran/SPARQL
 [submodule "blackmagicc"]
 	path = blackmagicc
 	url = https://github.com/pik-piam/blackmagicc
@@ -17,9 +29,6 @@
 [submodule "edgeTrpLib"]
 	path = edgeTrpLib
 	url = https://github.com/pik-piam/edgeTrpLib
-[submodule "GDPuc"]
-	path = GDPuc
-	url = https://github.com/pik-piam/GDPuc
 [submodule "gdx"]
 	path = gdx
 	url = https://github.com/pik-piam/gdx
@@ -33,9 +42,6 @@
 [submodule "goxygen"]
 	path = goxygen
 	url = https://github.com/pik-piam/goxygen
-[submodule "HARr"]
-	path = HARr
-	url = https://github.com/pfuehrlich-pik/HARr
 [submodule "iamc"]
 	path = iamc
 	url = https://github.com/IAMconsortium/iamc
@@ -72,9 +78,6 @@
 [submodule "magpie4"]
 	path = magpie4
 	url = https://github.com/pik-piam/magpie4
-[submodule "MagpieNCGains"]
-	path = MagpieNCGains
-	url = https://github.com/pik-piam/MAgPIENCGains
 [submodule "magpiesets"]
 	path = magpiesets
 	url = https://github.com/pik-piam/magpiesets
@@ -141,15 +144,15 @@
 [submodule "mstools"]
 	path = mstools
 	url = https://github.com/pik-piam/mstools
-[submodule "piamenv"]
-	path = piamenv
-	url = https://github.com/pik-piam/piamenv
 [submodule "piamInterfaces"]
 	path = piamInterfaces
 	url = https://github.com/pik-piam/piamInterfaces
 [submodule "piamModelTests"]
 	path = piamModelTests
 	url = https://github.com/pik-piam/piamModelTests
+[submodule "piamenv"]
+	path = piamenv
+	url = https://github.com/pik-piam/piamenv
 [submodule "piktests"]
 	path = piktests
 	url = https://github.com/pik-piam/piktests
@@ -159,6 +162,9 @@
 [submodule "r2databus"]
 	path = r2databus
 	url = https://github.com/pik-piam/r2databus
+[submodule "rOpenscmRunner"]
+	path = rOpenscmRunner
+	url = https://github.com/pik-piam/rOpenscmRunner
 [submodule "regressionworlddata"]
 	path = regressionworlddata
 	url = https://github.com/pik-piam/regressionworlddata
@@ -174,12 +180,6 @@
 [submodule "shinyresults"]
 	path = shinyresults
 	url = https://github.com/pik-piam/shinyresults
-[submodule "SPARQL"]
-	path = SPARQL
-	url = https://github.com/cran/SPARQL
 [submodule "trafficlight"]
 	path = trafficlight
 	url = https://github.com/pik-piam/trafficlight
-[submodule "rOpenscmRunner"]
-	path = rOpenscmRunner
-	url = https://github.com/pik-piam/rOpenscmRunner
