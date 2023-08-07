@@ -102,6 +102,9 @@
 [submodule "mrfable"]
 	path = mrfable
 	url = https://github.com/pik-piam/mrfable
+[submodule "mrfactors"]
+	path = mrfactors
+	url = https://github.com/pik-piam/mrfactors
 [submodule "mrfeed"]
 	path = mrfeed
 	url = https://github.com/pik-piam/mrfeed
