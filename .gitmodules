@@ -126,6 +126,9 @@
 [submodule "mrsoil"]
 	path = mrsoil
 	url = https://github.com/pik-piam/mrsoil
+[submodule "mrtransport"]
+	path = mrtransport
+	url = https://github.com/pik-piam/mrtransport
 [submodule "mrtutorial"]
 	path = mrtutorial
 	url = https://github.com/pik-piam/mrtutorial
