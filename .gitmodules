@@ -17,6 +17,9 @@
 [submodule "blackmagicc"]
 	path = blackmagicc
 	url = https://github.com/pik-piam/blackmagicc
+[submodule "brick"]
+	path = brick
+	url = https://github.com/pik-piam/brick
 [submodule "citation"]
 	path = citation
 	url = https://github.com/pik-piam/citation
