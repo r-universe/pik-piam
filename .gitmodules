@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/pik-piam/universe
+	url = https://github.com/pik-piam/pik-piam.r-universe.dev
 	branch = HEAD
 [submodule "GDPuc"]
 	path = GDPuc
