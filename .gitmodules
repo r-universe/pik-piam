@@ -54,6 +54,9 @@
 [submodule "lpjmlkit"]
 	path = lpjmlkit
 	url = https://github.com/PIK-LPJmL/lpjmlkit
+[submodule "lpjmlstats"]
+	path = lpjmlstats
+	url = https://github.com/PIK-LPJmL/lpjmlstats
 [submodule "lucode2"]
 	path = lucode2
 	url = https://github.com/pik-piam/lucode2
