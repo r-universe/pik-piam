@@ -156,6 +156,9 @@
 [submodule "piamModelTests"]
 	path = piamModelTests
 	url = https://github.com/pik-piam/piamModelTests
+[submodule "piamPlotComparison"]
+	path = piamPlotComparison
+	url = https://github.com/pik-piam/piamPlotComparison
 [submodule "piamValidation"]
 	path = piamValidation
 	url = https://github.com/pik-piam/piamValidation
