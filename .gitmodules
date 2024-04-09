@@ -99,6 +99,9 @@
 [submodule "mrdrivers"]
 	path = mrdrivers
 	url = https://github.com/pik-piam/mrdrivers
+[submodule "mredgebuildings"]
+	path = mredgebuildings
+	url = https://github.com/pik-piam/mredgebuildings
 [submodule "mrfable"]
 	path = mrfable
 	url = https://github.com/pik-piam/mrfable
