@@ -195,6 +195,9 @@
 [submodule "remulator"]
 	path = remulator
 	url = https://github.com/pik-piam/remulator
+[submodule "reportbrick"]
+	path = reportbrick
+	url = https://github.com/pik-piam/reportbrick
 [submodule "rmndt"]
 	path = rmndt
 	url = https://github.com/pik-piam/rmndt
