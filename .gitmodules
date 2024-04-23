@@ -198,6 +198,9 @@
 [submodule "reportbrick"]
 	path = reportbrick
 	url = https://github.com/pik-piam/reportbrick
+[submodule "reporttransport"]
+	path = reporttransport
+	url = https://github.com/pik-piam/reporttransport
 [submodule "rmndt"]
 	path = rmndt
 	url = https://github.com/pik-piam/rmndt
