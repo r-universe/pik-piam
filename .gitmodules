@@ -37,7 +37,7 @@
 	url = https://github.com/pik-piam/gdx
 [submodule "gdxrrw"]
 	path = gdxrrw
-	url = https://github.com/GAMS-dev/gdxrrw
+	url = https://github.com/pascal-sauer/gdxrrw
 	subdir = gdxrrw
 [submodule "gms"]
 	path = gms
