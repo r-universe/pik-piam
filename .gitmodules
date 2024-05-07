@@ -123,6 +123,9 @@
 [submodule "mrmagpie"]
 	path = mrmagpie
 	url = https://github.com/pik-piam/mrmagpie
+[submodule "mrmaterials"]
+	path = mrmaterials
+	url = https://github.com/pik-piam/mrmaterials
 [submodule "mrorganic"]
 	path = mrorganic
 	url = https://github.com/tscheypidi/mrorganic
