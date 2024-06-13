@@ -45,6 +45,9 @@
 [submodule "goxygen"]
 	path = goxygen
 	url = https://github.com/pik-piam/goxygen
+[submodule "hdf5r"]
+	path = hdf5r
+	url = https://github.com/pascal-sauer/hdf5r
 [submodule "iamc"]
 	path = iamc
 	url = https://github.com/IAMconsortium/iamc
