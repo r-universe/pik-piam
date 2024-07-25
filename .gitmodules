@@ -35,6 +35,9 @@
 [submodule "gdx"]
 	path = gdx
 	url = https://github.com/pik-piam/gdx
+[submodule "gdx2"]
+	path = gdx2
+	url = https://github.com/pik-piam/gdx2
 [submodule "gdxrrw"]
 	path = gdxrrw
 	url = https://github.com/pascal-sauer/gdxrrw
