@@ -123,6 +123,9 @@
 [submodule "mrfish"]
 	path = mrfish
 	url = https://github.com/pik-piam/mrfish
+[submodule "mrindustry"]
+	path = mrindustry
+	url = https://github.com/pik-piam/mrindustry
 [submodule "mrland"]
 	path = mrland
 	url = https://github.com/pik-piam/mrland
