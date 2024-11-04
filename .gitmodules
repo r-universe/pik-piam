@@ -14,6 +14,10 @@
 [submodule "SPARQL"]
 	path = SPARQL
 	url = https://github.com/cran/SPARQL
+[submodule "biospheremetrics"]
+	path = biospheremetrics
+	url = https://github.com/stenzelf/biospheremetrics
+	registered = false
 [submodule "blackmagicc"]
 	path = blackmagicc
 	url = https://github.com/pik-piam/blackmagicc
@@ -45,6 +49,10 @@
 	path = gdxrrw
 	url = https://github.com/pascal-sauer/gdxrrw
 	subdir = gdxrrw
+[submodule "ggtrace"]
+	path = ggtrace
+	url = https://github.com/yjunechoe/ggtrace
+	registered = false
 [submodule "gms"]
 	path = gms
 	url = https://github.com/pik-piam/gms
