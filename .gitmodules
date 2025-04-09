@@ -215,6 +215,9 @@
 [submodule "remind2"]
 	path = remind2
 	url = https://github.com/pik-piam/remind2
+[submodule "remindClimateAssessment"]
+	path = remindClimateAssessment
+	url = https://github.com/pik-piam/remindClimateAssessment
 [submodule "remulator"]
 	path = remulator
 	url = https://github.com/pik-piam/remulator
