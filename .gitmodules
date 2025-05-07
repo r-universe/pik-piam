@@ -113,6 +113,9 @@
 [submodule "mrdieter"]
 	path = mrdieter
 	url = https://github.com/pik-piam/mrdieter
+[submodule "mrdownscale"]
+	path = mrdownscale
+	url = https://github.com/pik-piam/mrdownscale
 [submodule "mrdrivers"]
 	path = mrdrivers
 	url = https://github.com/pik-piam/mrdrivers
