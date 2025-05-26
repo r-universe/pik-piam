@@ -30,6 +30,9 @@
 [submodule "citation"]
 	path = citation
 	url = https://github.com/pik-piam/citation
+[submodule "climbed"]
+	path = climbed
+	url = https://github.com/pik-piam/climbed
 [submodule "demystas"]
 	path = demystas
 	url = https://github.com/pik-piam/demystas
