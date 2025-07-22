@@ -52,6 +52,9 @@
 	path = gdxrrw
 	url = https://github.com/pascal-sauer/gdxrrw
 	subdir = gdxrrw
+[submodule "ggsankey"]
+	path = ggsankey
+	url = https://github.com/davidsjoberg/ggsankey
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/yjunechoe/ggtrace
