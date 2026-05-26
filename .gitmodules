@@ -32,9 +32,6 @@
 [submodule "edgeTransport"]
 	path = edgeTransport
 	url = https://github.com/pik-piam/edgeTransport
-[submodule "edgeTrpLib"]
-	path = edgeTrpLib
-	url = https://github.com/pik-piam/edgeTrpLib
 [submodule "gdx"]
 	path = gdx
 	url = https://github.com/pik-piam/gdx
