@@ -14,6 +14,9 @@
 [submodule "SPARQL"]
 	path = SPARQL
 	url = https://github.com/cran/SPARQL
+[submodule "biospheremetrics"]
+	path = biospheremetrics
+	url = https://github.com/stenzelf/biospheremetrics
 [submodule "blackmagicc"]
 	path = blackmagicc
 	url = https://github.com/pik-piam/blackmagicc
@@ -51,9 +54,6 @@
 [submodule "goxygen"]
 	path = goxygen
 	url = https://github.com/pik-piam/goxygen
-[submodule "iamc"]
-	path = iamc
-	url = https://github.com/IAMconsortium/iamc
 [submodule "limes"]
 	path = limes
 	url = https://github.com/pik-piam/limes
