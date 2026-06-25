@@ -43,8 +43,7 @@
 	url = https://github.com/pik-piam/gdx2
 [submodule "gdxrrw"]
 	path = gdxrrw
-	url = https://github.com/pascal-sauer/gdxrrw
-	subdir = gdxrrw
+	url = https://github.com/pik-piam/gdxrrw
 [submodule "ggsankey"]
 	path = ggsankey
 	url = https://github.com/davidsjoberg/ggsankey
