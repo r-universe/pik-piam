@@ -113,6 +113,9 @@
 [submodule "mredgebuildings"]
 	path = mredgebuildings
 	url = https://github.com/pik-piam/mredgebuildings
+[submodule "mrenergy"]
+	path = mrenergy
+	url = https://github.com/pik-piam/mrenergy
 [submodule "mrfable"]
 	path = mrfable
 	url = https://github.com/pik-piam/mrfable
