@@ -101,9 +101,9 @@
 [submodule "mrcommons"]
 	path = mrcommons
 	url = https://github.com/pik-piam/mrcommons
-[submodule "mrdieter"]
-	path = mrdieter
-	url = https://github.com/pik-piam/mrdieter
+[submodule "mrcommonsenergy"]
+	path = mrcommonsenergy
+	url = https://github.com/pik-piam/mrcommonsenergy
 [submodule "mrdownscale"]
 	path = mrdownscale
 	url = https://github.com/pik-piam/mrdownscale
